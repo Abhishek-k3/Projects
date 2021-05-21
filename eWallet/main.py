@@ -1,6 +1,11 @@
 from app import *
 
 while True:
+	print("----------------eWallet Management System-------------")
+	print("------------------Project by Abhishek.k---------------")
+	print("------------e-mail me at: abhisheku3u@gmail.com-------")
+	print("---------------Contact for publishing-----------------")
+	
 	print("-"*20)
 	print("Welcome to Fintrack", "-"*20, sep="\n")
 
