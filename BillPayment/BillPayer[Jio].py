@@ -18,7 +18,6 @@ driver.get('https://www.jio.com/selfcare/recharge/mobility/')
 phoneNo = driver.find_element_by_name("jioNrInputName")
 phoneNo.send_keys("8296604013")   #Change the number here if needed
 phoneNo.send_keys(Keys.RETURN)
-driver.get("https://www.stackoverflow.com")
 
 a = driver.find_element_by_xpath("//*[@id='__next']/div/div[2]/div[1]/div[2]/div[2]/div[2]/div[10]/div[2]/div[2]/button[2]")
 a.click()
