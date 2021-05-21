@@ -13,12 +13,19 @@ e-mail me at : abhisheku3u@gmail.com
 
 
 Steps:
-1. Make sure you have latest version of python for the best outcome.
-2. Make sure u have selenium module installed, if not:
+Step 1. Make sure you have latest version of python for the best outcome.
+Step 2. Make sure u have selenium module installed, if not:
 	-open commandPrompt in Admin mode
 	-Type pip install selenium
 	-after the package is installed, run the program
-3. You can change the number if you want in the program code.
+Step 3: Selenium requires a driver to interface with the chosen browser.
+	- For [Click for Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+	- For [Click for FireFox](https://github.com/mozilla/geckodriver/releases)
+	- For [Click for safari](https://webkit.org/blog/6900/webdriver-support-in-safari-10)
+
+
+Step 4: Paste the driver in the directory where the .py file is present.
+Step 5. You can change the number if you want in the program code.
 
 
 -----------------------------------------HAPPY WORKING--------------------------------------------------
