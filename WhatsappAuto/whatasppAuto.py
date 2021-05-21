@@ -13,9 +13,15 @@ current_time = now.strftime("%H:%M:%S")
 
 sent = 0
 
+print("--------------WhatsApp Message Sender and Scheduler------------")
+print("---------------------Project by Abhishek.K---------------------")
+print("-------------e-mail me at : abhisheku3u@gmail.com--------------")
+print("---------------------contact for publishing--------------------")
+
+
 ch = int(input("Enter the choice 1:Send Now\t 2:Schedule the Message"))
-contact = input("Enter the contact name")
-text = input("Enter the meassage You want to send to "+contact+".")
+contact = input("Enter the contact name")                                   #Enter the contact name
+text = input("Enter the meassage You want to send to "+contact+".")         #Enter the message to be sent
 driver = webdriver.Chrome()
 driver.get("https://web.whatsapp.com")
 print("Scan QR Code, And then Enter")
@@ -24,7 +30,7 @@ print("Logged In")
 
 if ch == 2:
 
-    user_time = input("enter time in H:M:S format at which you want this message to be sent")
+    user_time = input("enter time in H:M:S format at which you want this message to be sent")       #Enter the time when u have send the message
     print("-------PLEASE KEEP THIS PROGRAM RUNNING IN ORDED TO SEND THE MESSAGE AT DESIRED TIME--------")
 
 
