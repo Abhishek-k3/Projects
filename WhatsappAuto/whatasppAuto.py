@@ -30,7 +30,7 @@ print("Logged In")
 
 if ch == 2:
 
-    user_time = input("enter time in H:M:S format at which you want this message to be sent")       #Enter the time when u have send the message
+    user_time = input("enter time in H:M:S format at which you want this message to be sent")       #Enter the time when u have send the message to the contact
     print("-------PLEASE KEEP THIS PROGRAM RUNNING IN ORDED TO SEND THE MESSAGE AT DESIRED TIME--------")
 
 
