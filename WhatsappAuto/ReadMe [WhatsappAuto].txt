@@ -5,9 +5,12 @@
 # WhatsApp Bot
 
 This is a simple Web WhatsApp Bot developed in python using Selenium. 
-Selenium is used mainly for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.
+Selenium is used mainly for automating web applications for testing purposes, but is certainly not limited 
+to just that. Boring web-based administration tasks can (and should!) be automated as well.
 
-Selenium has the support of some of the largest browser vendors who have taken (or are taking) steps to make Selenium a native part of their browser. It is also the core technology in countless other browser automation tools, APIs and frameworks.
+Selenium has the support of some of the largest browser vendors who have taken (or are taking) steps to make
+Selenium a native part of their browser. It is also the core technology in countless other browser automation 
+tools, APIs and frameworks.
 
   - Send messages to family, friends and contacts automatically
   - Send specific message at specified time for all choosen contacts
