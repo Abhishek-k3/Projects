@@ -1,0 +1,110 @@
+
+Victim Public IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+
+Current logged in user: root
+
+Victim Public IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+
+Current logged in user: root
+
+Victim Public IP: 223.226.58.116
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+
+Current logged in user: root
+
+Victim Public IP: 223.226.58.116
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+
+Current logged in user: root
+
+Victim Public IP: 223.226.58.116
+User-Agent: Mozilla/5.0 (Linux; Android 11; AC2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 223.196.14.6
+User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 2406:7400:73:cd30:291f:9b88:fe4f:b8a8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 223.226.58.116
+User-Agent: Mozilla/5.0 (Linux; Android 11; AC2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 223.226.58.116
+User-Agent: Mozilla/5.0 (Linux; Android 10; SM-G965F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 223.226.58.116
+User-Agent: Mozilla/5.0 (Linux; Android 11; AC2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 223.226.58.116
+User-Agent: Mozilla/5.0 (Linux; Android 11; AC2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 223.226.58.116
+User-Agent: Mozilla/5.0 (Linux; Android 11; AC2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 223.226.58.116
+User-Agent: Mozilla/5.0 (Linux; Android 11; AC2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 223.226.58.116
+User-Agent: Mozilla/5.0 (Linux; Android 11; AC2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 223.226.58.116
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 122.172.217.132
+User-Agent: Mozilla/5.0 (Linux; Android 11; AC2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 122.172.215.163
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 122.172.215.163
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 122.172.215.163
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 122.172.215.163
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 122.172.215.163
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+
+Current logged in user: root
+
+Victim Public IP: 122.172.215.163
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+
+Current logged in user: root
